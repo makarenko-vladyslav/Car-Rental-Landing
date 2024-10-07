@@ -4,7 +4,7 @@ A responsive and modern web application for premium car rental services, featuri
 
 ## Demo
 
-Check out the live demo [here](#).
+Check out the live demo [[here](https://makarenko-vladyslav.github.io/Car-Rental-Landing-Demo/)].
 
 ## Features
 
